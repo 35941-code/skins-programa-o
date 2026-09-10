@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    width: 100%;
+    height: 100vh;
+    background: #333;
+}
+
+header{
+    width: 100%;
+    height: 20vh;
+    float: left;
+    background: #000;
+}
+
+.game{
+    width: 100%;
+    height: 35vh;
+    background: #ccc;
+    float: left;
+    padding: 1%;
+}
+
+#cs2{
+    background: #DE8315;
+}
+
+#valorant{
+    background: #F74352;
+}
+
+.game h2{
+    width: 100%;
+    color: #fff;
+}
+
+footer{
+    width: 100%;
+    height: 20vh;
+    background: #000;
+}
+
+.skin{
+    background: #fff;
+    height: 19vh;
+    width: 15%;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 30px;
+    float: left;
+}
